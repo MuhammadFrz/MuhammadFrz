@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/MuhammadFrz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Flat+Shark+%F0%9F%A6%88;Creative+Frontend+%26+Web+Engineer;Vue.js+%2B+Nuxt+Specialist;Three.js+%2B+Interactive+3D+Experiences;Crafting+Fluid+60fps+Digital+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Flat+Shark;Creative+Frontend+%26+Web+Engineer;Vue.js+%2B+Nuxt+Specialist;Three.js+%2B+Interactive+3D+Experiences;Crafting+Fluid+60fps+Digital+Products" alt="Typing SVG" />
   </a>
 
   <p align="center">
