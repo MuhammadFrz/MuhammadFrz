@@ -74,12 +74,9 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadFrz&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Flat Shark's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadFrz&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" height="175" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadFrz&theme=tokyo-night&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" height="165" alt="Flat Shark's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=MuhammadFrz&theme=tokyonight&hide_border=true&background=0D1117&v=2" height="165" alt="GitHub Streak" />
 </div>
 
 ---
