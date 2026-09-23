@@ -74,12 +74,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFrz&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Flat Shark's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFrz&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadFrz&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Flat Shark's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadFrz&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFrz&theme=tokyo-night&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadFrz&theme=tokyo-night&hide_border=true" height="175" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,5 +94,5 @@ Whether you want to discuss a new project, collaborate on creative web tech, or 
 - 🌐 **GitHub:** [MuhammadFrz](https://github.com/MuhammadFrz)
 
 <div align="center">
-  <sub>Designed with precision & care for <b>Flat Shark</b></sub>
+  <sub>Crafted with precision & care for <b>Flat Shark</b></sub>
 </div>
