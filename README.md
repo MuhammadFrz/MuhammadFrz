@@ -10,8 +10,7 @@
 
   <p align="center">
     <a href="https://t.me/Untitled_exe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://x.com/Sugun_Deez_Nuts"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="mailto:mmadfrz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:moefarzaneh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge" alt="Status" />
   </p>
 
@@ -86,8 +85,7 @@
 Whether you want to discuss a new project, collaborate on creative web tech, or just connect:
 
 - 💬 **Telegram:** [@Untitled_exe](https://t.me/Untitled_exe)
-- 🐦 **X (Twitter):** [@Sugun_Deez_Nuts](https://x.com/Sugun_Deez_Nuts)
-- ✉️ **Email:** [mmadfrz@gmail.com](mailto:mmadfrz@gmail.com)
+- ✉️ **Email:** [moefarzaneh@gmail.com](mailto:moefarzaneh@gmail.com)
 - 🌐 **GitHub:** [MuhammadFrz](https://github.com/MuhammadFrz)
 
 <div align="center">
