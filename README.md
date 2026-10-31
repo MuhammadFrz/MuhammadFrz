@@ -73,7 +73,7 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" height="165" alt="Flat Shark's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadFrz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Flat Shark's GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=MuhammadFrz&theme=tokyonight&hide_border=true&background=0D1117&v=2" height="165" alt="GitHub Streak" />
 </div>
