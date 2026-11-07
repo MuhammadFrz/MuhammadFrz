@@ -89,5 +89,4 @@ Whether you want to discuss a new project, collaborate on creative web tech, or 
 - 🌐 **GitHub:** [MuhammadFrz](https://github.com/MuhammadFrz)
 
 <div align="center">
-  <sub>Crafted with precision & care for <b>Flat Shark</b></sub>
 </div>
